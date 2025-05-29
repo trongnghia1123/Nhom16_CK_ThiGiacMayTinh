@@ -6,8 +6,8 @@
 ## Mô tả
 - `Code/YOLO`: code YOLO
 - `Code/U-Net`: code U-Net
-- ` `: Slide báo cáo 
-- ` `: Report báo cáo
+- `Slide_Nhom16_CK.pptx`: Slide báo cáo 
+- `Report_Nhom16_CK.docx`: Report báo cáo
 ## 1. Dữ liệu
 Bộ dữ liệu được sử dụng là "Face Mask Detection Dataset", được thu thập từ Kaggle (https://www.kaggle.com/datasets/ashishjangra27/face-mask-12k-images-dataset). Nhóm chỉ sử dụng dữ liệu ảnh gương mặt không đeo khẩu trang và dùng một prọect có sẵn trên github ([MaskTheFace](https://github.com/aqeelanwar/MaskTheFace?ref=strv.ghost.io)) gắn khẩu trang tạo ra dữ liệu mới với gương mặt được đeo khẩu trang.
 
