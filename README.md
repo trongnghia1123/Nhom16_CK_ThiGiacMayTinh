@@ -1,7 +1,7 @@
 # Nhóm 16 - NHẬN DIỆN VÀ DỰ ĐOÁN GƯƠNG MẶT ĐEO KHẨU TRANG BẰNG THỊ GIÁC MÁY TÍNH
 
-Trương Xuân Hùng – 21090141
-Nguyễn Trọng Nghĩa – 21031271
+- Trương Xuân Hùng – 21090141
+- Nguyễn Trọng Nghĩa – 21031271
 
 ## 1. Dữ liệu
 Bộ dữ liệu được sử dụng là "Face Mask Detection Dataset", được thu thập từ Kaggle (https://www.kaggle.com/datasets/ashishjangra27/face-mask-12k-images-dataset). Nhóm chỉ sử dụng dữ liệu ảnh gương mặt không đeo khẩu trang và dùng một prọect có sẵn trên github gắn khẩu trang tạo ra dữ liệu mới với gương mặt được đeo khẩu trang.
