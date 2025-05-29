@@ -10,10 +10,25 @@ Bộ dữ liệu được sử dụng là "Face Mask Detection Dataset", đượ
 ### YOLO
 Mô hình được huấn luyện với bộ dữ liệu 8549 ảnh trong đó được chia thành ba phần với các tỷ lệ: 70% train, 15% test, 15% validation. Mô hình YOLOv8n huấn luyện với khoảng 3tr tham số, 72 layer. Tham số huấn luyện như sau:
 
+| Thông số | Giá trị |
+|:-------:|:-------:|
+| Epoch | 100 |
+| Batch size | 32 |
+| Learning rate | 0.01 - 0.001 |
+| Early stopping | 20 |
+| Optimizer | AdamW |
 
 ### U-Net
 Mô hình được huấn luyện với bộ dữ liệu 4042 ảnh trong đó được chia thành ba phần với các tỷ lệ: 70% train, 20% test, 10% validation. Mô hình được huấn luyện bằng GPU trên Kaggle. 
 Tham số huấn luyện như sau:
+
+| Thông số | Giá trị |
+|:-------:|:-------:|
+| Epoch | 100 |
+| Batch size | 8 |
+| Learning rate | 0.001 |
+| Early stopping | 10 |
+| Optimizer | Adam |
 
 ## 3. Inference
 ### YOLO
