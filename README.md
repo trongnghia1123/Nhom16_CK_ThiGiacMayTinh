@@ -3,8 +3,12 @@
 - Trương Xuân Hùng – 21090141
 - Nguyễn Trọng Nghĩa – 21031271
 
+## Mô tả
+Code/YOLO chứa code YOLO
+Code/U-Net chứa code U-Net
+
 ## 1. Dữ liệu
-Bộ dữ liệu được sử dụng là "Face Mask Detection Dataset", được thu thập từ Kaggle (https://www.kaggle.com/datasets/ashishjangra27/face-mask-12k-images-dataset). Nhóm chỉ sử dụng dữ liệu ảnh gương mặt không đeo khẩu trang và dùng một prọect có sẵn trên github gắn khẩu trang tạo ra dữ liệu mới với gương mặt được đeo khẩu trang.
+Bộ dữ liệu được sử dụng là "Face Mask Detection Dataset", được thu thập từ Kaggle (https://www.kaggle.com/datasets/ashishjangra27/face-mask-12k-images-dataset). Nhóm chỉ sử dụng dữ liệu ảnh gương mặt không đeo khẩu trang và dùng một prọect có sẵn trên github ([MaskTheFace](https://github.com/aqeelanwar/MaskTheFace?ref=strv.ghost.io)) gắn khẩu trang tạo ra dữ liệu mới với gương mặt được đeo khẩu trang.
 
 ## 2. Trainning
 ### YOLO
