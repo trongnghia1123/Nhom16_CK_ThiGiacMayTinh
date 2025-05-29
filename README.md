@@ -2,9 +2,8 @@
 
 - Trương Xuân Hùng – 21090141
 - Nguyễn Trọng Nghĩa – 21031271
-Đồ án tập trung phát triển và đánh giá hiệu suất của hai mô hình học sâu trong bài toán nhận diện và khôi phục gương mặt đeo khẩu trang, một ứng dụng quan trọng của thị giác máy tính. Nhóm sử dụng hai mô hình cho bài toán này là:
-- YOLO được sử dụng để phát hiện nhanh và chính xác các vùng gương mặt, xác định trạng thái đeo khẩu trang.
--	U-Net được áp dụng để tái tạo chi tiết và chân thực các đặc điểm gương mặt bị che khuất.
+
+Đồ án tập trung phát triển và đánh giá hiệu suất của hai mô hình học sâu trong bài toán nhận diện và khôi phục gương mặt đeo khẩu trang, một ứng dụng quan trọng của thị giác máy tính. Nhóm sử dụng hai mô hình cho bài toán này là: **YOLO** được sử dụng để phát hiện nhanh và chính xác các vùng gương mặt, xác định trạng thái đeo khẩu trang và **U-Net** được áp dụng để tái tạo chi tiết và chân thực các đặc điểm gương mặt bị che khuất.
 
 ## Mô tả
 - `Code/YOLO`: code YOLO
