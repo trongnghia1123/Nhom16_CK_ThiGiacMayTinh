@@ -1,4 +1,4 @@
-NHẬN DIỆN VÀ DỰ ĐOÁN GƯƠNG MẶT ĐEO KHẨU TRANG BẰNG THỊ GIÁC MÁY TÍNH
+# NHẬN DIỆN VÀ DỰ ĐOÁN GƯƠNG MẶT ĐEO KHẨU TRANG BẰNG THỊ GIÁC MÁY TÍNH
 
 - Trương Xuân Hùng – 21090141
 - Nguyễn Trọng Nghĩa – 21031271
